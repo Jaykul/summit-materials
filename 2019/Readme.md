@@ -31,7 +31,7 @@
 | Completely Automate Managing Windows Software...Forever                                        | Daniel Franciscus          | [Scripts & Slides](https://github.com/dfranciscus/PSSummit2019)          |
 | Automate All The Things–Where To Start And Where To Go?                                        | Chris Hunt                 |           |
 | PSCache - simple strategies for magnificent performance                                        | Mathias Jessen             |           |
-| Bullet-proofing: Patterns & Practices for survivable advanced functions and scripts            | Joel “Jaykul” Bennett      |           |
+| Bullet-proofing: Patterns & Practices for survivable advanced functions and scripts            | [Joel “Jaykul” Bennett](http://GitHub.com/Jaykul)      | [slides & code](http://GitHub.com/Jaykul/DevOps2019)          |
 | Publishing and Managing Modules in an Internal Repository                                      | Kevin Marquette            |           |
 | Reporting on Server Compliance with DSCv2: Guest Configuration                                 | Michael Greene             |           |
 | Unleash your PowerShell with AWS Lambda and Serverless Computing                               | Andrew Pearce              |           |
